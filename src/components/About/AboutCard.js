@@ -10,10 +10,9 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Anvit Dubey </span>
             from <span className="purple"> Lucknow, India.</span>
-            <br /> I am a final year student pursuing BTech in Computer Science from KIIT.
+            <br /> I am a final year student pursuing BTech in Computer Science
+            from KIIT.
             <br />
-            
-            
             <br />
             Apart from coding, some other activities that I love to do!
           </p>
@@ -28,11 +27,6 @@ function AboutCard() {
               <ImPointRight /> Travelling
             </li>
           </ul>
-
-          <p style={{ color: "rgb(155 126 172)" }}>
-            "Strive to build things that make a difference!"{" "}
-          </p>
-          <footer className="blockquote-footer">Me 😊</footer>
         </blockquote>
       </Card.Body>
     </Card>
