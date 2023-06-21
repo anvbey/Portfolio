@@ -38,10 +38,7 @@ function App() {
         <ScrollToTop />
         <Routes>
           <Route path="/" element={<Home />} />
-<<<<<<< HEAD
-=======
           {/* <Route path="/project" element={<Projects />} /> */}
->>>>>>> 11c36927d31288c07a3094dd7eee19928c530104
           <Route path="/about" element={<About />} />
           <Route path="/resume" element={<Resume />} />
           <Route path="*" element={<Navigate to="/"/>} />
